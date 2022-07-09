@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Anh Duc Nguyen
+- 👀 I’m interested in programming and coding
+- 🌱 I’m currently learning java
