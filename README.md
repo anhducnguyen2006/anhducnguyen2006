@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andy Nguyen
 
-🎓 MSc in AI & Data Science 
+🎓 MSc in AI & Data Science  
 🧠 Passionate about NLP, Machine Learning & Generative AI  
 🌍 I love building tech that bridges cultures, languages, and people.
 
