@@ -18,13 +18,13 @@
 ## 🛠️ Tech Stack
 
 **Languages**  
-`Python` `SQL` `R` `JavaScript`
+`Python` `SQL` `Java` `C++` `JavaScript` `css` `html`
 
 **ML & AI**  
-`scikit-learn` `XGBoost` `Transformers` `spaCy` `OpenAI API` `LangChain` `Hugging Face`
+`scikit-learn` `OpenAI API` `n8n` `PyTorch`
 
 **Data & DevOps**  
-`Pandas` `Airflow` `FastAPI` `Docker` `GCP` `Streamlit`
+`Pandas` `numpy` `Docker` `matplotlib` `sqlalchemy` `SCANIA API` `AirTable API`
 
 ---
 
