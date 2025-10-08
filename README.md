@@ -20,7 +20,6 @@
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/andrzej-nguyen/)
-- 🧪 [GitHub](https://github.com/anhducnguyen2006)
 
 ---
 
