@@ -7,13 +7,14 @@
 ## 🛠️ Tech Stack
 
 **Languages**  
-`Python` `SQL` `Java` `C++` `JavaScript` `CSS` `HTML` `React.js` `Node.js` `TypeScript` `REST API` `FAST API`
+`Python` `SQL` `Java` `C++` `JavaScript` `HTML/CSS` `TypeScript` `Swift`
 
 **ML & AI**  
-`scikit-learn` `n8n` `PyTorch`
+`PyTorch` `pandas` `scikit-learn` `numpy` `matplotlib` `n8n`
 
-**Data & DevOps**  
-`Pandas` `numpy` `Docker` `Kubernetes` `AWS` `matplotlib` `sqlalchemy` `SCANIA API` `AirTable API` `OpenAI API`
+**Technologies & Frameworks**  
+`React.js` `Node.js` `Docker` `Kubernetes` `Azure` `sqlalchemy` `OpenAI API`
+`REST API` `FAST API` `Express.js`
 
 ---
 
