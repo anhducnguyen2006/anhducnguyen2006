@@ -2,7 +2,7 @@
 
 🎓 BS in Computer Science and minor in Data Science & Mathematics.
 🧠 Passionate about applied AI, Neural Networks, Machine Learning & Generative AI.
-🌍 I love building tech that bridges cultures, languages, and people.
+🏖️ In my free time I draw, play guitar, soccer, and gym! 💪💪💪
 
 ## 🛠️ Tech Stack
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/andrzej-nguyen/)
 
