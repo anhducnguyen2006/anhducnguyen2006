@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andy Nguyen
 
-🎓 BS in Computer Science and minor in Data Science & Mathematics.
+🎓 BS in Computer Science & Data Science and minor in Mathematics.
 🧠 Passionate about applied AI, Neural Networks, Machine Learning & Generative AI.
 🏖️ In my free time I draw, play guitar, soccer, and gym! 💪💪💪
 
